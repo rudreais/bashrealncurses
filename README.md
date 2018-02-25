@@ -9,6 +9,8 @@ doing :
 
 done nothing yet
 
+![picture alt](img/actually.png "actual work")
+
 ## how to use
 
 work in progress
