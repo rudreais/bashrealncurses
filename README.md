@@ -2,9 +2,12 @@
 a better ncurses implementation for bash in bash.
 
 ## actually done and actually doing
-* menu
-  * checkbox
+doing :
 * screen
+  * menu
+    * checkbox
+
+done nothing yet
 
 ## how to use
 
