@@ -3,7 +3,7 @@ a better ncurses implementation for bash in bash.
 
 ## actually done and actually doing
 * menu
-        * checkbox
+  * checkbox
 * screen
 
 ## how to use
