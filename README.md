@@ -1,7 +1,13 @@
 # bashrealncurses
 a better ncurses implementation for bash in bash.
 
+## actually done and actually doing
+* menu
+        * checkbox
+* screen
+
 ## how to use
+
 work in progress
 
 ### sources
